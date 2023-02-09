@@ -35,9 +35,9 @@ You **must** use the exploit payload that matches your device and firmware combi
 
 #### The Setup:
 
-1. <mark style="color:red;">**Factory reset the device. Make sure to use the "en\_GB" or "English (United Kingdom)" locale when setting the language.**</mark>
-2. Type `;enter_demo` in the Kindle search bar after performing a factory reset
-3. Reboot the device.
+1. <mark style="color:red;">**Factory reset the device. Make sure to use the "en\_GB" or "English (United Kingdom)" locale when setting the language. Skip Wi-Fi registration by selecting any network then backing out.**</mark>
+2. After performing a factory resetType `;enter_demo` in the Kindle search bar.
+3. Reboot the device, now it should boot into demo mode. If it doesn't, check [Troubleshooting](watchthis-5.12.2.2-5.13.4-5.14.2.md#troubleshooting).
 4. Once in demo mode, skip setting up Wi-Fi and enter dummy values for store registration when prompted.
 5. Skip searching for a demo payload.
 6. Select the "standard" demo type.

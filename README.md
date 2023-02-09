@@ -14,8 +14,6 @@ As of current, this guide will only cover non-legacy devices such as the PW2/KT2
 
 Any older non-touch devices, or the KT1/PW1 will get its own guide at some point, as those are quite different in how they're jailbroken, etc.
 
-There's also a fascinating world of running alternative OSes on your Kindle, such as CracKDroid and KOSP, which I'm hoping to also make a guide for it at some point.
-
 This guide is always open to suggestions and improvements. For any inquiries, feel free to contact me through:
 
 * Email: jsyreviews(at)gmail(dot)com
