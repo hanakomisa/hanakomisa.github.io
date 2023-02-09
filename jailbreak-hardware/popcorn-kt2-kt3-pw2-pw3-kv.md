@@ -101,4 +101,4 @@ Once you've unarchived the package, activate SDP mode on your Kindle as instruct
 {% endtab %}
 {% endtabs %}
 
-## Once the jailbreak has finished, the device will reboot, then you can proceed to [Installing KUAL/MRPI](../post-jailbreak/installing-kual-mrpi.md).
+## Once the jailbreak has finished, the device will reboot, then you can proceed to [Setting up a Hotfix](../post-jailbreak/set-up-a-hotfix.md).

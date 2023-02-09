@@ -61,14 +61,6 @@ You **must** use the exploit payload that matches your device and firmware combi
 7. Select "Help & User Guides" then "Get started"
 8. The device will reboot, and the jailbreak script will run automatically.
 
-#### Post Jailbreak:
-
-1. After the device has rebooted, type `;uzb` into the search bar. (This will enable the USBMS protocol since demo mode has that disabled by default.)
-2. Connect the device to a PC and copy `update_hotfix_watchthis_custom.bin` to the root of the Kindle storage.
-3. Eject the device and either enter `;dsts` or swipe down and select the settings icon to enter the device settings menu.
-4. Select **Update Your Kindle** to install the custom hotfix.
-5. This will take your device out of demo mode, rebuild the application registry and clean up unneeded jailbreak files.
-
 <details>
 
 <summary>Troubleshooting:</summary>
@@ -88,4 +80,4 @@ You **must** use the exploit payload that matches your device and firmware combi
 
 </details>
 
-## Once you've completed everything, and your Kindle is back at the home screen, continue to [Installing KUAL/MRPI](../post-jailbreak/installing-kual-mrpi.md).
+## Once you've completed everything, and your Kindle is back at the home screen, continue to [Setting up a Hotfix](../post-jailbreak/set-up-a-hotfix.md), following the WatchThis Hotfix tab.
