@@ -15,7 +15,6 @@
 ## Jailbreak (Hardware)
 
 * [Popcorn (KT2, KT3, PW2, PW3, KV)](jailbreak-hardware/popcorn-kt2-kt3-pw2-pw3-kv.md)
-* [WIP: Serial (8th gen or older)](jailbreak-hardware/wip-serial-8th-gen-or-older.md)
 
 ## Post Jailbreak
 
