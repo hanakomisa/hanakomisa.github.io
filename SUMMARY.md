@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Identify Your Kindle By Serial Number](getting-started/identify-your-kindle-by-serial-number.md)
+* [How do I know what is my Kindle called?](getting-started/how-do-i-know-what-is-my-kindle-called.md)
 * [Determining the method to use for jailbreaking](getting-started/determining-the-method-to-use-for-jailbreaking.md)
 
 ## Jailbreak (Software)
