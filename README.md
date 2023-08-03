@@ -17,8 +17,7 @@ Any older non-touch devices, or the KT1/PW1 will get its own guide at some point
 This guide is always open to suggestions and improvements. For any inquiries, feel free to contact me through:
 
 * Email: jsyreviewsth(at)gmail(dot)com
-* Mastodon: [@neon@tech.lgbt](https://tech.lgbt/@neon)
-* Telegram: @neonnight
+* Mastodon: [@neon@blahaj.zone](https://blahaj.zone/@neon)
 
 As always, credits to the original authors, to which this guide would not be possible without their info.
 

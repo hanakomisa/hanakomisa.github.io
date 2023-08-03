@@ -28,7 +28,7 @@ You will need a serial connection. The guide doesn't cover this yet but I would 
 6. Exit diags mode, and drop into a shell: `exit login`
 7. Flash your RootFS using DD, this will take a while: \
    `dd if=/mnt/us/`**`<rootfs file name>.img`**` ``of=/dev/mmcblk0p1 bs=4096`\
-   ``Obviously, change `<rootfs file name>` to whatever you have it named.
+   Obviously, change `<rootfs file name>` to whatever you have it named.
 8. Once it finishes, reboot your device: `reboot`
 
 ## Hopefully if everything goes right, your Kindle should boot back into your system.
