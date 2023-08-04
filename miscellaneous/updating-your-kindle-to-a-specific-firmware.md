@@ -8,6 +8,8 @@ description: >-
 
 Info taken from original thread: [https://www.mobileread.com/forums/showthread.php?t=338268](https://www.mobileread.com/forums/showthread.php?t=338268)
 
+## <mark style="color:red;">Notice: Firmware 5.15.1.1 has introduced some breaking changes. DO NOT UPDATE PAST 5.15.1.</mark>
+
 Recently, Basti564 (their [Fediverse](https://wetdry.world/@basti564) | [Twitter](https://twitter.com/Basti564) | [YouTube](https://www.youtube.com/@Basti564)) has backed up all the Kindle firmware versions that is still available on Amazon's servers, and have put them up on their archive page, https://cocaine.trade (lovely url btw <3)&#x20;
 
 {% tabs %}

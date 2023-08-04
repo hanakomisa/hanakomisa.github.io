@@ -6,7 +6,7 @@ description: This page will guide you through how to disable OTA updates on the 
 
 Since `5.11.x`, it has become increasingly harder to block software updates. The old method of putting a folder named `update.bin.tmp.partial` no longer works, so we'll need to improvise in other ways.
 
-## Method 1: Using hius07's renameotabin KUAL extension:
+## Using hius07's renameotabin KUAL extension:
 
 1. Download the [renameotabin](https://www.mobileread.com/forums/showpost.php?p=4076733\&postcount=25) extension.
 2. Plug in your Kindle to your computer (Make sure that USBNetwork is disabled!), drag the `renameotabin` folder into `extensions` on your Kindle's drive.
