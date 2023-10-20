@@ -14,10 +14,12 @@ As of current, this guide will only cover non-legacy devices such as the PW2/KT2
 
 Any older non-touch devices, or the KT1/PW1 will get its own guide at some point, as those are quite different in how they're jailbroken, etc.
 
-This guide is always open to suggestions and improvements. For any inquiries, feel free to contact me through:
+This guide is always open to suggestions and improvements. For any inquiries, feel free to contact me through here:
 
-* Email: jsyreviewsth(at)gmail(dot)com
 * Fediverse: [@neon@lethallava.land](https://lethallava.land/@neon)
+* Matrix: @neon:bachgau.social
+
+(please don't use these as help channels though, for that you'd probably want to go to the [Kindle Modding Initiative](https://t.me/+WY-jEAtM8fEzMWIy) Telegram instead.)
 
 As always, credits to the original authors, to which this guide would not be possible without their info.
 
