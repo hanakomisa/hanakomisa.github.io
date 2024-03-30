@@ -8,14 +8,14 @@ description: >-
 
 Info taken from original thread: [https://www.mobileread.com/forums/showthread.php?t=338268](https://www.mobileread.com/forums/showthread.php?t=338268)
 
-## <mark style="color:red;">Notice: Firmware 5.15.1.1 has introduced some breaking changes. DO NOT UPDATE PAST 5.15.1.</mark>
+## <mark style="color:red;">Notice: Firmware 5.16.3 has introduced some breaking changes. DO NOT UPDATE PAST 5.16.2.1.1.</mark>
 
 Recently, Basti564 (their [Fediverse](https://wetdry.world/@basti564) | [Twitter](https://twitter.com/Basti564) | [YouTube](https://www.youtube.com/@Basti564)) has backed up all the Kindle firmware versions that is still available on Amazon's servers, and have put them up on their archive page, https://cocaine.trade (lovely url btw <3)&#x20;
 
 {% tabs %}
 {% tab title="Community Archive (cocaine.trade)" %}
 * Visit [https://files.cocaine.trade/firmware/kindle/](https://files.cocaine.trade/firmware/kindle/) to grab your firmware. As of writing, it includes all of the non-legacy (KT2/PW2 and newer) firmwares up to 5.16.x (current latest), as well as legacy 5.x devices such as the KT and PW1.
-  * For your own interest, if you're planning to keep the jailbreak, I recommend you stay on 5.14.2 or below, unless if you have access to [Popcorn](../jailbreak-hardware/popcorn-kt2-kt3-pw2-pw3-kv.md) or Serial method. While the jailbreak can work on newer versions provided you did not factory reset and have let the JB bridge initialize correctly (or reapplied with a hotfix after upgrade), if something happens to your install and you have to reflash your Kindle, you won't be able to rejailbreak.
+  * For your own interest, if you're planning to keep the jailbreak, I recommend you stay on 5.16.2.1.1 or below.
 {% endtab %}
 
 {% tab title="Amazon's Own Server" %}

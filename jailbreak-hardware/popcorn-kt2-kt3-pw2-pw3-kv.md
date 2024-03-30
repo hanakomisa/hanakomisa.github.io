@@ -9,7 +9,8 @@ description: >-
 
 Info taken from original thread: [https://www.mobileread.com/forums/showthread.php?t=345655](https://www.mobileread.com/forums/showthread.php?t=345655)
 
-A small note before we start, the Kindle Voyage is fully covered by both [KindleBreak](../jailbreak-software/kindlebreak-5.10.3-5.13.3.md) and [WatchThis](../jailbreak-software/watchthis-5.12.2.2-5.13.4-5.14.2.md) so if you don't feel like pulling apart your precious Voyage, use that instead!
+A small note before we start, the Kindle Voyage is fully covered by both [KindleBreak](../jailbreak-software/kindlebreak-5.10.3-5.13.3.md) and [WatchThis](../jailbreak-software/watchthis-5.12.2.2-5.13.4-5.14.2.md) so if you don't feel like pulling apart your precious Voyage, use that instead!\
+Also LanguageBreak now covers all these devices, so it's no longer recommended to use.
 
 ## Prerequisites:
 
@@ -41,7 +42,7 @@ Refer to this image. ([Credit](https://www.mobileread.com/forums/showthread.php?
 {% tab title="PW2/PW3" %}
 Connect the right side (rectangle pad) of CR501 to a 3.3V source such as TP508.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Connect these two points together.</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

@@ -11,6 +11,7 @@
 
 * [KindleBreak (5.10.3-5.13.3\*)](jailbreak-software/kindlebreak-5.10.3-5.13.3.md)
 * [WatchThis (5.12.2.2/5.13.4-5.14.2)](jailbreak-software/watchthis-5.12.2.2-5.13.4-5.14.2.md)
+* [LanguageBreak (5.14.3-5.16.2.1.1)](jailbreak-software/languagebreak-5.14.3-5.16.2.1.1.md)
 
 ## Jailbreak (Hardware)
 
