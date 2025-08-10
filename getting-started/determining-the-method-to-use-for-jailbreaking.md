@@ -6,7 +6,7 @@ description: >-
 
 # Determining the method to use for jailbreaking
 
-## <mark style="color:red;">Firmware 5.16.3 has introduced some breaking changes. DO NOT UPDATE PAST 5.16.2.1.1.</mark>
+## <mark style="color:red;">This guide is outdated. Please use the guide over at</mark> [<mark style="color:red;">https://kindlemodding.org</mark>](https://kindlemodding.org/) <mark style="color:red;">instead!</mark>
 
 There's multiple ways to go about jailbreaking a Kindle. But it all depends on:
 

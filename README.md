@@ -6,6 +6,8 @@ description: >-
 
 # The Kindle Modding Guide (WIP)
 
+## <mark style="color:red;">This guide is outdated. Please use the guide over at</mark> [<mark style="color:red;">https://kindlemodding.org</mark>](https://kindlemodding.org/) <mark style="color:red;">instead!</mark>
+
 ### Hello!&#x20;
 
 This page is an attempt by [me](https://github.com/hanakomisa) (Neon) to try and condense, then streamline the information found on [MobileRead Wiki](https://wiki.mobileread.com/wiki) and the [MobileRead Kindle Dev Forum](https://www.mobileread.com/forums/forumdisplay.php?f=150) to hopefully make it more organized, and easier for newcomers to get into.&#x20;
